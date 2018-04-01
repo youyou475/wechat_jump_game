@@ -1,13 +1,13 @@
 {
-    "under_game_score_y": 300,
-    "press_coefficient": 1.392,
-    "piece_base_height_1_2": 20,
-    "piece_body_width": 70,
-    "head_diameter": 60,
+    "under_game_score_y": 350,
+    "press_coefficient": 1.450,
+    "piece_base_height_1_2": 30,
+    "piece_body_width": 80,
+    "head_diameter": 80,
     "swipe": {
-        "x1": 500,
-        "y1": 1600,
-        "x2": 500,
-        "y2": 1602
+        "x1": 450,
+        "y1": 1500,
+        "x2": 450,
+        "y2": 1500
     }
 }
